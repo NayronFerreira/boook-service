@@ -23,7 +23,7 @@ public class Cambio implements Serializable {
 
 	private String to;
 
-	private BigDecimal conversionFactor;
+	private Double conversionFactor;
 
 	private BigDecimal convertedValue;
 
