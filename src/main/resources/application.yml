@@ -7,7 +7,7 @@ eureka:
 resilience4j:
   retry:
     instances:
-      babyMessage:
+      bookMessage2:
         max:attempts: 5
 spring:
   application:
