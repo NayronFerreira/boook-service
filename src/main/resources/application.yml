@@ -33,3 +33,7 @@ spring:
     schemas: book_service
     user: root
     password: Nay300912
+springdoc:
+  show-actuator: true
+  api-docs:
+    path: book-service/v3/api-docs
